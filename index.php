@@ -15,11 +15,7 @@ $events = $req->fetchAll();
     <meta name="description" content="">
     <meta name="author" content="">
 
-<<<<<<< Updated upstream
-    <title>Agenda MESS</title>
-=======
     <title>Agenda MESS 2020</title>
->>>>>>> Stashed changes
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -75,7 +71,7 @@ $events = $req->fetchAll();
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-			<div class="alert alert-success" role="alert">
+			<div class="alert alert-info" role="alert">
 				<h1>CALENDARIO MESSS  <br> Actividades</h1>
 			</div>
                 <div id="calendar" class="col-centered"> </div>
